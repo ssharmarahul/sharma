@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_documentation element="" label="Needlt" language="en" table="x_175853_needlt_needlt">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element/>
+            <help/>
+            <hint/>
+            <label>Needlt</label>
+            <language>en</language>
+            <name>x_175853_needlt_needlt</name>
+            <plural>Needlts</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-11-18 18:23:33</sys_created_on>
+            <sys_id>07df15c90f2203003d9fcf8ce1050e21</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Needlt</sys_name>
+            <sys_package display_value="Needlt" source="x_175853_needlt">b8cd5dc10f2203003d9fcf8ce1050e21</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Needlt">b8cd5dc10f2203003d9fcf8ce1050e21</sys_scope>
+            <sys_update_name>sys_documentation_x_175853_needlt_needlt__en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-11-18 18:23:33</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
