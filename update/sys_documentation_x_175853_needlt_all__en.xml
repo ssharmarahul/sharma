@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_documentation element="" label="All" language="en" table="x_175853_needlt_all">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element/>
+            <help/>
+            <hint/>
+            <label>All</label>
+            <language>en</language>
+            <name>x_175853_needlt_all</name>
+            <plural>Alls</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-11-24 12:47:55</sys_created_on>
+            <sys_id>8d9c4ff20f2a03003d9fcf8ce1050ea0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>All</sys_name>
+            <sys_package display_value="Needlt" source="x_175853_needlt">b8cd5dc10f2203003d9fcf8ce1050e21</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Needlt">b8cd5dc10f2203003d9fcf8ce1050e21</sys_scope>
+            <sys_update_name>sys_documentation_x_175853_needlt_all__en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-11-24 12:47:55</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

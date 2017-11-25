@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>10</order>
+        <role display_value="x_175853_needlt.admin" name="x_175853_needlt.admin">0cdecf360f2a03003d9fcf8ce1050e62</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-11-24 12:58:51</sys_created_on>
+        <sys_id>491fc7f20f2a03003d9fcf8ce1050e09</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>0cdecf360f2a03003d9fcf8ce1050e62</sys_name>
+        <sys_package display_value="Needlt" source="x_175853_needlt">b8cd5dc10f2203003d9fcf8ce1050e21</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Needlt">b8cd5dc10f2203003d9fcf8ce1050e21</sys_scope>
+        <sys_update_name>sys_embedded_help_role_491fc7f20f2a03003d9fcf8ce1050e09</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-11-24 12:58:51</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>
